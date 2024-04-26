@@ -4,7 +4,7 @@ high = int(input())
 between = True
 
 while line := input():
-    if bwtween:
+    if between:
         between = low <= int(line) <= high
 
 print(between)
